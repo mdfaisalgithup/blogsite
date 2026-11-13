@@ -1,0 +1,6 @@
+{
+  "name": "Fieldnote",
+  "description": "An editorial blog post and practical tricks & tips sharing platform with a separate admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
